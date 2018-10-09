@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="pruebaModelStoreContainer" CdmEntityContainer="pruebaEntities">
+    <EntitySetMapping Name="turno">
+      <EntityTypeMapping TypeName="pruebaModel.turno">
+        <MappingFragment StoreEntitySet="turno">
+          <ScalarProperty Name="dni" ColumnName="dni" />
+          <ScalarProperty Name="idHora" ColumnName="idHora" />
+          <ScalarProperty Name="cod_tipo_examen" ColumnName="cod_tipo_examen" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

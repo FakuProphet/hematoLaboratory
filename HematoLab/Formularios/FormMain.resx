@@ -1,0 +1,567 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="itemToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>415, 30</value>
+  </data>
+  <data name="itemToolStripMenuItem.Text" xml:space="preserve">
+    <value>Administración estudios hematológicos</value>
+  </data>
+  <data name="evoluciónDelPacienteToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>415, 30</value>
+  </data>
+  <data name="evoluciónDelPacienteToolStripMenuItem.Text" xml:space="preserve">
+    <value>Evolución del Paciente</value>
+  </data>
+  <data name="HematoToolStripMenuItem.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft NeoGothic, 14.25pt</value>
+  </data>
+  <data name="HematoToolStripMenuItem.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="HematoToolStripMenuItem.ImageScaling" type="System.Windows.Forms.ToolStripItemImageScaling, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="HematoToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>153, 94</value>
+  </data>
+  <data name="HematoToolStripMenuItem.Text" xml:space="preserve">
+    <value>HEMATOLOGIA</value>
+  </data>
+  <data name="HematoToolStripMenuItem.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomCenter</value>
+  </data>
+  <data name="HematoToolStripMenuItem.TextImageRelation" type="System.Windows.Forms.TextImageRelation, System.Windows.Forms">
+    <value>ImageAboveText</value>
+  </data>
+  <data name="administracionTomaDeMuestraToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>362, 30</value>
+  </data>
+  <data name="administracionTomaDeMuestraToolStripMenuItem.Text" xml:space="preserve">
+    <value>Administracion Toma de muestra</value>
+  </data>
+  <data name="filtrarTurnosToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>362, 30</value>
+  </data>
+  <data name="filtrarTurnosToolStripMenuItem.Text" xml:space="preserve">
+    <value>Filtrar turnos </value>
+  </data>
+  <data name="ExtractorioToolStripMenuItem.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft NeoGothic, 14.25pt</value>
+  </data>
+  <data name="ExtractorioToolStripMenuItem.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>TopCenter</value>
+  </data>
+  <data name="ExtractorioToolStripMenuItem.ImageScaling" type="System.Windows.Forms.ToolStripItemImageScaling, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="ExtractorioToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>144, 94</value>
+  </data>
+  <data name="ExtractorioToolStripMenuItem.Text" xml:space="preserve">
+    <value>EXTRACTORIO</value>
+  </data>
+  <data name="ExtractorioToolStripMenuItem.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomCenter</value>
+  </data>
+  <data name="ExtractorioToolStripMenuItem.TextImageRelation" type="System.Windows.Forms.TextImageRelation, System.Windows.Forms">
+    <value>ImageAboveText</value>
+  </data>
+  <data name="administracionPacientesToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>296, 30</value>
+  </data>
+  <data name="administracionPacientesToolStripMenuItem.Text" xml:space="preserve">
+    <value>Administración Pacientes</value>
+  </data>
+  <data name="administracionTurnosToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>296, 30</value>
+  </data>
+  <data name="administracionTurnosToolStripMenuItem.Text" xml:space="preserve">
+    <value>Administración Turnos</value>
+  </data>
+  <data name="emisiónDeInfomesToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>296, 30</value>
+  </data>
+  <data name="emisiónDeInfomesToolStripMenuItem.Text" xml:space="preserve">
+    <value>Emisión de informes</value>
+  </data>
+  <data name="TurnosToolStripMenuItem.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft NeoGothic, 14.25pt</value>
+  </data>
+  <data name="TurnosToolStripMenuItem.ImageScaling" type="System.Windows.Forms.ToolStripItemImageScaling, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="TurnosToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>96, 94</value>
+  </data>
+  <data name="TurnosToolStripMenuItem.Text" xml:space="preserve">
+    <value>TURNOS</value>
+  </data>
+  <data name="TurnosToolStripMenuItem.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomCenter</value>
+  </data>
+  <data name="TurnosToolStripMenuItem.TextImageRelation" type="System.Windows.Forms.TextImageRelation, System.Windows.Forms">
+    <value>ImageAboveText</value>
+  </data>
+  <data name="administrarUsuariosSistemaToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>372, 30</value>
+  </data>
+  <data name="administrarUsuariosSistemaToolStripMenuItem.Text" xml:space="preserve">
+    <value>Administrar usuarios sistema</value>
+  </data>
+  <data name="profesionalesToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>300, 30</value>
+  </data>
+  <data name="profesionalesToolStripMenuItem.Text" xml:space="preserve">
+    <value>Profesionales Laboratorio</value>
+  </data>
+  <data name="secretariasToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>168, 30</value>
+  </data>
+  <data name="secretariasToolStripMenuItem.Text" xml:space="preserve">
+    <value>Secretaria</value>
+  </data>
+  <data name="noMédicosToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>300, 30</value>
+  </data>
+  <data name="noMédicosToolStripMenuItem.Text" xml:space="preserve">
+    <value>Personal no médicos</value>
+  </data>
+  <data name="responsablesExtractorioToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>300, 30</value>
+  </data>
+  <data name="responsablesExtractorioToolStripMenuItem.Text" xml:space="preserve">
+    <value>Responsables Extractorio</value>
+  </data>
+  <data name="administraciónPersonalToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>372, 30</value>
+  </data>
+  <data name="administraciónPersonalToolStripMenuItem.Text" xml:space="preserve">
+    <value>Administración del personal</value>
+  </data>
+  <data name="informesToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>372, 30</value>
+  </data>
+  <data name="informesToolStripMenuItem.Text" xml:space="preserve">
+    <value>Informes</value>
+  </data>
+  <data name="administrarCuentaAdministradorToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>372, 30</value>
+  </data>
+  <data name="administrarCuentaAdministradorToolStripMenuItem.Text" xml:space="preserve">
+    <value>Administrar Cuenta Administrador</value>
+  </data>
+  <data name="UsuariosToolStripMenuItem.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft NeoGothic, 14.25pt</value>
+  </data>
+  <data name="UsuariosToolStripMenuItem.ImageScaling" type="System.Windows.Forms.ToolStripItemImageScaling, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="UsuariosToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>171, 94</value>
+  </data>
+  <data name="UsuariosToolStripMenuItem.Text" xml:space="preserve">
+    <value>ADMINISTRADOR</value>
+  </data>
+  <data name="UsuariosToolStripMenuItem.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomCenter</value>
+  </data>
+  <data name="UsuariosToolStripMenuItem.TextImageRelation" type="System.Windows.Forms.TextImageRelation, System.Windows.Forms">
+    <value>ImageAboveText</value>
+  </data>
+  <data name="logoutToolStripMenuItem.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft NeoGothic, 14.25pt</value>
+  </data>
+  <data name="logoutToolStripMenuItem.ImageScaling" type="System.Windows.Forms.ToolStripItemImageScaling, System.Windows.Forms">
+    <value>None</value>
+  </data>
+  <data name="logoutToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>97, 94</value>
+  </data>
+  <data name="logoutToolStripMenuItem.Text" xml:space="preserve">
+    <value>LOGOUT</value>
+  </data>
+  <data name="logoutToolStripMenuItem.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>BottomCenter</value>
+  </data>
+  <data name="logoutToolStripMenuItem.TextImageRelation" type="System.Windows.Forms.TextImageRelation, System.Windows.Forms">
+    <value>ImageAboveText</value>
+  </data>
+  <data name="menuStrip1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>23, 60</value>
+  </data>
+  <data name="menuStrip1.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>7, 2, 0, 2</value>
+  </data>
+  <data name="menuStrip1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1320, 98</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="menuStrip1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="menuStrip1.Text" xml:space="preserve">
+    <value>menuStrip1</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Name" xml:space="preserve">
+    <value>menuStrip1</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <metadata name="statusStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>132, 17</value>
+  </metadata>
+  <data name="statusStrip1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Verdana, 12pt</value>
+  </data>
+  <data name="toolStripStatusLabelFechaYHora.Size" type="System.Drawing.Size, System.Drawing">
+    <value>185, 18</value>
+  </data>
+  <data name="toolStripStatusLabelFechaYHora.Text" xml:space="preserve">
+    <value>toolStripStatusLabel2</value>
+  </data>
+  <data name="toolStripStatusLabel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>185, 18</value>
+  </data>
+  <data name="toolStripStatusLabel1.Text" xml:space="preserve">
+    <value>toolStripStatusLabel1</value>
+  </data>
+  <data name="statusStrip1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>23, 725</value>
+  </data>
+  <data name="statusStrip1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1320, 23</value>
+  </data>
+  <data name="statusStrip1.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="statusStrip1.Text" xml:space="preserve">
+    <value>statusStrip1</value>
+  </data>
+  <data name="&gt;&gt;statusStrip1.Name" xml:space="preserve">
+    <value>statusStrip1</value>
+  </data>
+  <data name="&gt;&gt;statusStrip1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.StatusStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;statusStrip1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;statusStrip1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>73</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>7, 13</value>
+  </data>
+  <data name="$this.BackgroundImageLayout" type="System.Windows.Forms.ImageLayout, System.Windows.Forms">
+    <value>Stretch</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>1366, 768</value>
+  </data>
+  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Verdana, 8.25pt</value>
+  </data>
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAMAQAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAgIACWlpaR1paWlVaWlpVWlpaVVpaWlVaWlpVWlpaVVpa
+        WjMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWVlZhlxcXPhbW1v/W1tb/1tbW/9bW1v/W1tb/1tb
+        W/9bW1vvW1tbOAAAAABaWlpPW1tbqVxcXKpcXFyqXFxcqltbW9hbW1v9W1tb/1tbW/9bW1v/W1tbtltb
+        W7dbW1v/W1tb7VhYWDpVVVUDW1tbqwAAAAEAAAAAAAAAAAAAAABdXV0WW1tb31tbW/9bW1v/W1tb81tb
+        W/ZbW1v2W1tb/1xcXNEAAAABZmZmClxcXKdaWlo2WlpaIlpaWiJaWloiWlpaIltbW6hbW1v9W1tb+1tb
+        W8dbW1v/W1tb/1tbW+1ZWVlQAAAAAGZmZgVaWlp3Wlpa3FtbW/9bW1v/W1tb/1tbW/9bW1v/Wlpa6ltb
+        W/9bW1v/W1tb/1tbW/9bW1vSAAAAAQAAAAAAAAAAAAAAAFtbW8JbW1vwW1tbwVtbW/9bW1v/W1tb/1pa
+        Wu5aWlqFWlpaZlpaWmZcXFyqWlpaTwAAAAAAAAAAAAAAAAAAAABbW1vCW1tb8FtbW8VbW1v/W1tb/1tb
+        W/9bW1v/W1tbyAAAAABdXV0LW1tbsQAAAAAAAAAAAAAAAAAAAAAAAAAAW1tbwltbW+RbW1tcW1tbkltb
+        W/NbW1v/W1tb/1xcXNsAAAAAXV1dKVtbW3sAAAAAAAAAAAAAAAAAAAAAAAAAAFtbW8JbW1vwWlpaultb
+        W7hcXFxLW1tbuFpaWtlbW1vaAAAAAF1dXSlbW1t7AAAAAAAAAAAAAAAAAAAAAAAAAABbW1vCW1tb8ltb
+        W8VbW1v3W1tbolpaWk9bW1v/Wlpa6ltbW3BYWFiAW1tbogAAAAAAAAAAAAAAAAAAAAAAAAAAW1tbwltb
+        W/BbW1vBW1tbvltbW/9bW1t5W1tb1FtbW/9bW1v/WlpaXVtbWy0AAAAAAAAAAAAAAAAAAAAAAAAAAFtb
+        W8JbW1vwW1tbrVpaWqxaWlqsW1tbhltbW49bW1vfW1tb/1xcXE5aWloiXl5eGwAAAAAAAAAAAAAAAAAA
+        AABbW1vBW1tb/1tbW/9bW1v/W1tb/1tbW/9bW1v/W1tb/1tbW/9aWlqTWlpad1xcXLUAAAAAAAAAAAAA
+        AAAAAAAAW1tbhFtbW/9bW1v/W1tb/1tbW/9bW1v/W1tb/1tbW/9bW1v/W1tbsFxcXG9aWlqFAAAAAAAA
+        AAAAAAAAAAAAAICAgAJbW1tJWlpaZlpaWmZaWlpmWlpaZlpaWmZaWlpmWlpaZlpaWnxcXFxWgICAAgAA
+        AAAAAAAA//8AAPwBAADAAQAAvgEAAL4DAADAAwAAwDcAAMA3AADIPwAAwj8AAMEnAADBHwAAwB8AAMAL
+        AADACwAA//8AAA==
+</value>
+  </data>
+  <data name="$this.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>23, 60, 23, 20</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>HematoLab Main</value>
+  </data>
+  <data name="&gt;&gt;HematoToolStripMenuItem.Name" xml:space="preserve">
+    <value>HematoToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;HematoToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;itemToolStripMenuItem.Name" xml:space="preserve">
+    <value>itemToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;itemToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;evoluciónDelPacienteToolStripMenuItem.Name" xml:space="preserve">
+    <value>evoluciónDelPacienteToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;evoluciónDelPacienteToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;ExtractorioToolStripMenuItem.Name" xml:space="preserve">
+    <value>ExtractorioToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;ExtractorioToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;administracionTomaDeMuestraToolStripMenuItem.Name" xml:space="preserve">
+    <value>administracionTomaDeMuestraToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;administracionTomaDeMuestraToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;filtrarTurnosToolStripMenuItem.Name" xml:space="preserve">
+    <value>filtrarTurnosToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;filtrarTurnosToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;TurnosToolStripMenuItem.Name" xml:space="preserve">
+    <value>TurnosToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;TurnosToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;administracionPacientesToolStripMenuItem.Name" xml:space="preserve">
+    <value>administracionPacientesToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;administracionPacientesToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;administracionTurnosToolStripMenuItem.Name" xml:space="preserve">
+    <value>administracionTurnosToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;administracionTurnosToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;emisiónDeInfomesToolStripMenuItem.Name" xml:space="preserve">
+    <value>emisiónDeInfomesToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;emisiónDeInfomesToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;UsuariosToolStripMenuItem.Name" xml:space="preserve">
+    <value>UsuariosToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;UsuariosToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;administrarUsuariosSistemaToolStripMenuItem.Name" xml:space="preserve">
+    <value>administrarUsuariosSistemaToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;administrarUsuariosSistemaToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;administraciónPersonalToolStripMenuItem.Name" xml:space="preserve">
+    <value>administraciónPersonalToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;administraciónPersonalToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;profesionalesToolStripMenuItem.Name" xml:space="preserve">
+    <value>profesionalesToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;profesionalesToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;noMédicosToolStripMenuItem.Name" xml:space="preserve">
+    <value>noMédicosToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;noMédicosToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;secretariasToolStripMenuItem.Name" xml:space="preserve">
+    <value>secretariasToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;secretariasToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;responsablesExtractorioToolStripMenuItem.Name" xml:space="preserve">
+    <value>responsablesExtractorioToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;responsablesExtractorioToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;informesToolStripMenuItem.Name" xml:space="preserve">
+    <value>informesToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;informesToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;administrarCuentaAdministradorToolStripMenuItem.Name" xml:space="preserve">
+    <value>administrarCuentaAdministradorToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;administrarCuentaAdministradorToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;logoutToolStripMenuItem.Name" xml:space="preserve">
+    <value>logoutToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;logoutToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripStatusLabelFechaYHora.Name" xml:space="preserve">
+    <value>toolStripStatusLabelFechaYHora</value>
+  </data>
+  <data name="&gt;&gt;toolStripStatusLabelFechaYHora.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripStatusLabel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripStatusLabel1.Name" xml:space="preserve">
+    <value>toolStripStatusLabel1</value>
+  </data>
+  <data name="&gt;&gt;toolStripStatusLabel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripStatusLabel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>FormMain</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>MetroFramework.Forms.MetroForm, MetroFramework, Version=1.4.0.0, Culture=neutral, PublicKeyToken=5f91a84759bf584a</value>
+  </data>
+</root>

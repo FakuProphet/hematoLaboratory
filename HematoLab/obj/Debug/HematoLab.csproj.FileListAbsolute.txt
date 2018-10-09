@@ -1,0 +1,642 @@
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\HematoLab.exe.config
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\HematoLab.exe
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\HematoLab.pdb
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\AForge.dll
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\AForge.Video.dll
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\EntityFramework.dll
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\MetroFramework.Design.dll
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\MetroFramework.dll
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\TabControlEX.dll
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\AForge.xml
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\AForge.Video.xml
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\EntityFramework.xml
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAdmPacientes.resources
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAdmTurno.resources
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormGenerarUsusariosSistema.resources
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormFotografias.resources
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormInfoPaciente.resources
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormListadoTurnoFiltro.resources
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormPersonalNoMedico.resources
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormProfesionales.resources
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormExtractorio.resources
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormLogin.resources
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormMain.resources
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormResponsablesExtractorio.resources
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormSplash.resources
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormStickerExtractorio.resources
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormTest.resources
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormUsuariosSistemaAdm.resources
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Properties.Resources.resources
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.csproj.GenerateResource.Cache
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.exe
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.pdb
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.csprojResolveAssemblyReference.cache
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormHematoHome.resources
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormHemograma.resources
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\itextsharp.dll
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\itextsharp.xml
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormInformesGestionTurnos.resources
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormContadorElementos.resources
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormTest2.resources
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormInformesGestionUsuarios.resources
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Reporte.FormReporteParamtro.resources
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormPrueba.resources
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAlteracionesPorSerie.resources
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Reporte.FormInforme.resources
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\FlashControlV71.dll
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\stdole.dll
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\faku\Desktop\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.csproj.CoreCompileInputs.cache
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\HematoLab.exe.config
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\HematoLab.exe
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\HematoLab.pdb
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\AForge.dll
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\AForge.Video.dll
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\EntityFramework.dll
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\itextsharp.dll
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\MetroFramework.Design.dll
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\MetroFramework.dll
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\TabControlEX.dll
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\AForge.xml
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\AForge.Video.xml
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\EntityFramework.xml
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\itextsharp.xml
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.csprojResolveAssemblyReference.cache
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAdmPacientes.resources
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAdmTurno.resources
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAlteracionesPorSerie.resources
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormContadorElementos.resources
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormGenerarUsusariosSistema.resources
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormFotografias.resources
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormHematoHome.resources
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormHemograma.resources
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormInfoPaciente.resources
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormInformesGestionTurnos.resources
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormInformesGestionUsuarios.resources
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormListadoTurnoFiltro.resources
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormPersonalNoMedico.resources
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormProfesionales.resources
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormExtractorio.resources
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormLogin.resources
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormMain.resources
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormPrueba.resources
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormResponsablesExtractorio.resources
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormSplash.resources
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormStickerExtractorio.resources
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormTest.resources
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormTest2.resources
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormUsuariosSistemaAdm.resources
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Properties.Resources.resources
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Reporte.FormInforme.resources
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Reporte.FormReporteParamtro.resources
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.csproj.GenerateResource.Cache
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.exe
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.pdb
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAdministrador.resources
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\FlashControlV71.dll
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\stdole.dll
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\faku\Desktop\Programacion\Proyecto Sistema Conteo Celulas\HematoLab\HematoLab\obj\Debug\HematoLab.csproj.CoreCompileInputs.cache
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\bin\Debug\HematoLab.exe.config
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\bin\Debug\HematoLab.exe
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\bin\Debug\HematoLab.pdb
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\bin\Debug\AForge.dll
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\bin\Debug\AForge.Video.dll
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\bin\Debug\EntityFramework.dll
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\bin\Debug\itextsharp.dll
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\bin\Debug\MetroFramework.Design.dll
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\bin\Debug\MetroFramework.dll
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\bin\Debug\AForge.xml
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\bin\Debug\AForge.Video.xml
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\bin\Debug\EntityFramework.xml
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\bin\Debug\itextsharp.xml
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.csprojResolveAssemblyReference.cache
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAdministrador.resources
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAdmPacientes.resources
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAdmTurno.resources
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAlteracionesPorSerie.resources
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormContadorElementos.resources
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormGenerarUsusariosSistema.resources
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormFotografias.resources
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormHematoHome.resources
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormHemograma.resources
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormInfoPaciente.resources
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormInformesGestionTurnos.resources
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormInformesGestionUsuarios.resources
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormListadoTurnoFiltro.resources
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormPersonalNoMedico.resources
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormProfesionales.resources
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormExtractorio.resources
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormLogin.resources
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormMain.resources
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormPrueba.resources
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormResponsablesExtractorio.resources
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormSplash.resources
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormStickerExtractorio.resources
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormTest.resources
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormTest2.resources
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormUsuariosSistemaAdm.resources
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Properties.Resources.resources
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Reporte.FormInforme.resources
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Reporte.FormReporteParamtro.resources
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.csproj.GenerateResource.Cache
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.exe
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.pdb
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\bin\Debug\FlashControlV71.dll
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\bin\Debug\stdole.dll
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\faku\Desktop\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.csproj.CoreCompileInputs.cache
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\HematoLab.exe.config
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\HematoLab.exe
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\HematoLab.pdb
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\AForge.dll
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\AForge.Video.dll
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\EntityFramework.dll
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\FlashControlV71.dll
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\itextsharp.dll
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\MetroFramework.Design.dll
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\MetroFramework.dll
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\stdole.dll
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\AForge.xml
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\AForge.Video.xml
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\EntityFramework.xml
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\itextsharp.xml
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.csprojResolveAssemblyReference.cache
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAdministrador.resources
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAdmPacientes.resources
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAdmTurno.resources
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAlteracionesPorSerie.resources
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormContadorElementos.resources
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormConteoGuardar.resources
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormGenerarUsusariosSistema.resources
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormFotografias.resources
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormHematoHome.resources
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormHemograma.resources
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormInfoPaciente.resources
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormInformesGestionTurnos.resources
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormInformesGestionUsuarios.resources
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormListadoTurnoFiltro.resources
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormPersonalNoMedico.resources
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormProfesionales.resources
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormExtractorio.resources
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormLogin.resources
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormMain.resources
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormPrueba.resources
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormResponsablesExtractorio.resources
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormSplash.resources
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormStickerExtractorio.resources
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormTest.resources
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormTest2.resources
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormUsuariosSistemaAdm.resources
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Properties.Resources.resources
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Reporte.FormInforme.resources
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Reporte.FormReporteParamtro.resources
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.csproj.GenerateResource.Cache
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.csproj.CoreCompileInputs.cache
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.exe
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.pdb
+C:\Users\faku\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormListadoConteos.resources
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\HematoLab.exe.config
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\HematoLab.exe
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\HematoLab.pdb
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\AForge.dll
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\AForge.Video.dll
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\EntityFramework.dll
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\itextsharp.dll
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\MetroFramework.Design.dll
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\MetroFramework.dll
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\AForge.xml
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\AForge.Video.xml
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\EntityFramework.xml
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\itextsharp.xml
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.csprojResolveAssemblyReference.cache
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAdministrador.resources
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAdmPacientes.resources
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAdmTurno.resources
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAlteracionesPorSerie.resources
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormContadorElementos.resources
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormConteoGuardar.resources
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormGenerarUsusariosSistema.resources
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormFotografias.resources
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormHematoHome.resources
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormHemograma.resources
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormInfoPaciente.resources
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormInformesGestionTurnos.resources
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormInformesGestionUsuarios.resources
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormListadoConteos.resources
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormListadoTurnoFiltro.resources
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormPersonalNoMedico.resources
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormProfesionales.resources
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormExtractorio.resources
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormLogin.resources
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormMain.resources
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormPrueba.resources
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormResponsablesExtractorio.resources
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormSplash.resources
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormStickerExtractorio.resources
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormTest.resources
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormTest2.resources
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormUsuariosSistemaAdm.resources
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Properties.Resources.resources
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Reporte.FormInforme.resources
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Reporte.FormReporteParamtro.resources
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.csproj.GenerateResource.Cache
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.exe
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.pdb
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\HematoLab.exe.config
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.exe
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.pdb
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\HematoLab.exe
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\HematoLab.pdb
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\AForge.dll
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\AForge.Video.DirectShow.dll
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\AForge.Video.dll
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\EntityFramework.dll
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\EntityFramework.SqlServer.dll
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\itextsharp.dll
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\MetroFramework.Design.dll
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\MetroFramework.dll
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\MetroFramework.Fonts.dll
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\AForge.xml
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\AForge.Video.xml
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\AForge.Video.DirectShow.xml
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\EntityFramework.xml
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\EntityFramework.SqlServer.xml
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\itextsharp.xml
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.csprojResolveAssemblyReference.cache
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAdministrador.resources
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAdmPacientes.resources
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAdmTurno.resources
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAlteracionesPorSerie.resources
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormContadorElementos.resources
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormConteoGuardar.resources
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormGenerarUsusariosSistema.resources
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormFotografias.resources
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormHematoHome.resources
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormHemograma.resources
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormInfoPaciente.resources
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormInformesGestionTurnos.resources
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormInformesGestionUsuarios.resources
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormListadoConteos.resources
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormListadoTurnoFiltro.resources
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormPersonalNoMedico.resources
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormProfesionales.resources
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormExtractorio.resources
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormLogin.resources
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormMain.resources
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormPrueba.resources
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormResponsablesExtractorio.resources
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormSplash.resources
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormStickerExtractorio.resources
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormTest.resources
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormTest2.resources
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormUsuariosSistemaAdm.resources
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Properties.Resources.resources
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Reporte.FormInforme.resources
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Reporte.FormReporteParamtro.resources
+D:\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.csproj.GenerateResource.Cache
+C:\Users\FakuRen\Desktop\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormPacientesTurnosCancelados.resources
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\HematoLab.exe.config
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.exe
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.pdb
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.csprojResolveAssemblyReference.cache
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAdministrador.resources
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAdmPacientes.resources
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAdmTurno.resources
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAlteracionesPorSerie.resources
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormContadorElementos.resources
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormConteoGuardar.resources
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormGenerarUsusariosSistema.resources
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormFotografias.resources
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormHematoHome.resources
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormHemograma.resources
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormInfoPaciente.resources
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormInformesGestionTurnos.resources
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormInformesGestionUsuarios.resources
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormListadoConteos.resources
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormListadoTurnoFiltro.resources
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormPacientesTurnosCancelados.resources
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormPersonalNoMedico.resources
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormProfesionales.resources
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormExtractorio.resources
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormLogin.resources
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormMain.resources
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormPrueba.resources
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormResponsablesExtractorio.resources
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormSplash.resources
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormStickerExtractorio.resources
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormTest.resources
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormTest2.resources
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormUsuariosSistemaAdm.resources
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Properties.Resources.resources
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Reporte.FormInforme.resources
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Reporte.FormReporteParamtro.resources
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.csproj.GenerateResource.Cache
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\HematoLab.exe
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\HematoLab.pdb
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\AForge.dll
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\AForge.Video.dll
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\EntityFramework.dll
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\itextsharp.dll
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\MetroFramework.Design.dll
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\MetroFramework.dll
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\AForge.xml
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\AForge.Video.xml
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\EntityFramework.xml
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\itextsharp.xml
+C:\Users\FakuRen\Desktop\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\HematoLab.exe.config
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\HematoLab.exe
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\HematoLab.pdb
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\AForge.dll
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\AForge.Video.dll
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\EntityFramework.dll
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\itextsharp.dll
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\MetroFramework.Design.dll
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\MetroFramework.dll
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\AForge.xml
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\AForge.Video.xml
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\EntityFramework.xml
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\bin\Debug\itextsharp.xml
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.csprojResolveAssemblyReference.cache
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAdministrador.resources
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAdmPacientes.resources
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAdmTurno.resources
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAlteracionesPorSerie.resources
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormContadorElementos.resources
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormConteoGuardar.resources
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormGenerarUsusariosSistema.resources
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormFotografias.resources
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormHematoHome.resources
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormHemograma.resources
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormInfoPaciente.resources
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormInformesGestionTurnos.resources
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormInformesGestionUsuarios.resources
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormListadoConteos.resources
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormListadoTurnoFiltro.resources
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormPacientesTurnosCancelados.resources
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormPersonalNoMedico.resources
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormProfesionales.resources
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormExtractorio.resources
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormLogin.resources
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormMain.resources
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormPrueba.resources
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormResponsablesExtractorio.resources
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormSplash.resources
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormStickerExtractorio.resources
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormTest.resources
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormTest2.resources
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormUsuariosSistemaAdm.resources
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Properties.Resources.resources
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Reporte.FormInforme.resources
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.Reporte.FormReporteParamtro.resources
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.csproj.GenerateResource.Cache
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.exe
+C:\Users\FakuRen\Desktop\instalador\prueba con eritrosedimentacion\HematoLabNuevasFunciones\proyectoHLab\HematoLab\HematoLab\obj\Debug\HematoLab.pdb
+E:\instalador\prueba con eritrosedimentacion\HematoLab\Código fuente\HematoLab\HematoLab\bin\Debug\HematoLab.exe.config
+E:\instalador\prueba con eritrosedimentacion\HematoLab\Código fuente\HematoLab\HematoLab\obj\Debug\HematoLab.exe
+E:\instalador\prueba con eritrosedimentacion\HematoLab\Código fuente\HematoLab\HematoLab\obj\Debug\HematoLab.pdb
+E:\proyecto hematoLab\HematoLab\HematoLab\bin\Debug\HematoLab.exe.config
+E:\proyecto hematoLab\HematoLab\HematoLab\obj\Debug\HematoLab.exe
+E:\proyecto hematoLab\HematoLab\HematoLab\obj\Debug\HematoLab.pdb
+E:\proyecto hematoLab\HematoLab\HematoLab\bin\Debug\HematoLab.exe
+E:\proyecto hematoLab\HematoLab\HematoLab\bin\Debug\HematoLab.pdb
+E:\proyecto hematoLab\HematoLab\HematoLab\bin\Debug\AForge.dll
+E:\proyecto hematoLab\HematoLab\HematoLab\bin\Debug\AForge.Video.DirectShow.dll
+E:\proyecto hematoLab\HematoLab\HematoLab\bin\Debug\AForge.Video.dll
+E:\proyecto hematoLab\HematoLab\HematoLab\bin\Debug\EntityFramework.dll
+E:\proyecto hematoLab\HematoLab\HematoLab\bin\Debug\EntityFramework.SqlServer.dll
+E:\proyecto hematoLab\HematoLab\HematoLab\bin\Debug\itextsharp.dll
+E:\proyecto hematoLab\HematoLab\HematoLab\bin\Debug\MetroFramework.Design.dll
+E:\proyecto hematoLab\HematoLab\HematoLab\bin\Debug\MetroFramework.dll
+E:\proyecto hematoLab\HematoLab\HematoLab\bin\Debug\MetroFramework.Fonts.dll
+E:\proyecto hematoLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\proyecto hematoLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\proyecto hematoLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\proyecto hematoLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\proyecto hematoLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\proyecto hematoLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\proyecto hematoLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\proyecto hematoLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\proyecto hematoLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\proyecto hematoLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\proyecto hematoLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\proyecto hematoLab\HematoLab\HematoLab\bin\Debug\ShockwaveFlashObjects.dll
+E:\proyecto hematoLab\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\proyecto hematoLab\HematoLab\HematoLab\bin\Debug\AForge.xml
+E:\proyecto hematoLab\HematoLab\HematoLab\bin\Debug\AForge.Video.xml
+E:\proyecto hematoLab\HematoLab\HematoLab\bin\Debug\AForge.Video.DirectShow.xml
+E:\proyecto hematoLab\HematoLab\HematoLab\bin\Debug\EntityFramework.xml
+E:\proyecto hematoLab\HematoLab\HematoLab\bin\Debug\EntityFramework.SqlServer.xml
+E:\proyecto hematoLab\HematoLab\HematoLab\bin\Debug\itextsharp.xml
+E:\proyecto hematoLab\HematoLab\HematoLab\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+E:\proyecto hematoLab\HematoLab\HematoLab\obj\Debug\HematoLab.csprojResolveAssemblyReference.cache
+E:\proyecto hematoLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAdministrador.resources
+E:\proyecto hematoLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAdmPacientes.resources
+E:\proyecto hematoLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAdmTurno.resources
+E:\proyecto hematoLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAlteracionesPorSerie.resources
+E:\proyecto hematoLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormContadorElementos.resources
+E:\proyecto hematoLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormConteoGuardar.resources
+E:\proyecto hematoLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormGenerarUsusariosSistema.resources
+E:\proyecto hematoLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormFotografias.resources
+E:\proyecto hematoLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormHematoHome.resources
+E:\proyecto hematoLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormHemograma.resources
+E:\proyecto hematoLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormInfoPaciente.resources
+E:\proyecto hematoLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormInformesGestionTurnos.resources
+E:\proyecto hematoLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormInformesGestionUsuarios.resources
+E:\proyecto hematoLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormListadoConteos.resources
+E:\proyecto hematoLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormListadoTurnoFiltro.resources
+E:\proyecto hematoLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormPacientesTurnosCancelados.resources
+E:\proyecto hematoLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormPersonalNoMedico.resources
+E:\proyecto hematoLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormProfesionales.resources
+E:\proyecto hematoLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormExtractorio.resources
+E:\proyecto hematoLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormLogin.resources
+E:\proyecto hematoLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormMain.resources
+E:\proyecto hematoLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormPrueba.resources
+E:\proyecto hematoLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormResponsablesExtractorio.resources
+E:\proyecto hematoLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormSplash.resources
+E:\proyecto hematoLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormStickerExtractorio.resources
+E:\proyecto hematoLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormTest.resources
+E:\proyecto hematoLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormTest2.resources
+E:\proyecto hematoLab\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormUsuariosSistemaAdm.resources
+E:\proyecto hematoLab\HematoLab\HematoLab\obj\Debug\HematoLab.Properties.Resources.resources
+E:\proyecto hematoLab\HematoLab\HematoLab\obj\Debug\HematoLab.Reporte.FormInforme.resources
+E:\proyecto hematoLab\HematoLab\HematoLab\obj\Debug\HematoLab.Reporte.FormReporteParamtro.resources
+E:\proyecto hematoLab\HematoLab\HematoLab\obj\Debug\HematoLab.csproj.GenerateResource.Cache
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\bin\Debug\HematoLab.exe.config
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.exe
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.pdb
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\bin\Debug\HematoLab.exe
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\bin\Debug\HematoLab.pdb
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\bin\Debug\AForge.dll
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\bin\Debug\AForge.Video.dll
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\bin\Debug\EntityFramework.dll
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\bin\Debug\itextsharp.dll
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\bin\Debug\MetroFramework.Design.dll
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\bin\Debug\MetroFramework.dll
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\bin\Debug\AForge.xml
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\bin\Debug\AForge.Video.xml
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\bin\Debug\EntityFramework.xml
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\bin\Debug\itextsharp.xml
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.csprojResolveAssemblyReference.cache
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAdministrador.resources
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAdmPacientes.resources
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAdmTurno.resources
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAlteracionesPorSerie.resources
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormContadorElementos.resources
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormConteoGuardar.resources
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormGenerarUsusariosSistema.resources
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormFotografias.resources
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormHematoHome.resources
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormHemograma.resources
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormInfoPaciente.resources
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormInformesGestionTurnos.resources
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormInformesGestionUsuarios.resources
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormListadoConteos.resources
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormListadoTurnoFiltro.resources
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormPacientesTurnosCancelados.resources
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormPersonalNoMedico.resources
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormProfesionales.resources
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormExtractorio.resources
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormLogin.resources
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormMain.resources
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormPrueba.resources
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormResponsablesExtractorio.resources
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormSplash.resources
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormStickerExtractorio.resources
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormTest.resources
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormTest2.resources
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormUsuariosSistemaAdm.resources
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.Properties.Resources.resources
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.Reporte.FormInforme.resources
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.Reporte.FormReporteParamtro.resources
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.csproj.GenerateResource.Cache
