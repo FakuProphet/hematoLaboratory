@@ -607,7 +607,6 @@ C:\Users\Prophet\Desktop\HematoLab\HematoLab\bin\Debug\EntityFramework.xml
 C:\Users\Prophet\Desktop\HematoLab\HematoLab\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Prophet\Desktop\HematoLab\HematoLab\bin\Debug\itextsharp.xml
 C:\Users\Prophet\Desktop\HematoLab\HematoLab\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
-C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.csprojResolveAssemblyReference.cache
 C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAdministrador.resources
 C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAdmPacientes.resources
 C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.Formularios.FormAdmTurno.resources
@@ -640,3 +639,7 @@ C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.Properties.Reso
 C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.Reporte.FormInforme.resources
 C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.Reporte.FormReporteParamtro.resources
 C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.csproj.GenerateResource.Cache
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\bin\Debug\stdole.dll
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.csprojAssemblyReference.cache
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.csproj.CoreCompileInputs.cache
+C:\Users\Prophet\Desktop\HematoLab\HematoLab\obj\Debug\HematoLab.csproj.CopyComplete
