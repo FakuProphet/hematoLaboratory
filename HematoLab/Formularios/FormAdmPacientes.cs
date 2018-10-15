@@ -1,13 +1,7 @@
 ﻿using HematoLab.Clases;
 using HematoLab.Gestores;
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
 using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 
@@ -241,7 +235,6 @@ namespace HematoLab.Formularios
             btnActualizar.Enabled = true;
             ocultarControlesEdad();
             btnActualizar.Enabled = true;
-            //  lstPacientes.SelectedIndex = 0;
             txtFechaNac.Visible = true;
         }
         
