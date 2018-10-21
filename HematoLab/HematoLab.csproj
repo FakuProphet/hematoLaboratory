@@ -278,6 +278,7 @@
       <DependentUpon>FormUsuariosSistemaAdm.cs</DependentUpon>
     </Compile>
     <Compile Include="Gestores\GestorConteo.cs" />
+    <Compile Include="Gestores\GestorDGV.cs" />
     <Compile Include="Gestores\GestorExtractorio.cs" />
     <Compile Include="Gestores\GestorHemato.cs" />
     <Compile Include="Gestores\GestorImagen.cs" />

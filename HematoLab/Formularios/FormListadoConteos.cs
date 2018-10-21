@@ -14,6 +14,7 @@ namespace HematoLab.Formularios
     public partial class FormListadoConteos : MetroFramework.Forms.MetroForm
     {
         GestorConteo miGestor;
+        GestorDGV miGestorDGV;
         public string fecha;
         public string dni;
 
@@ -22,30 +23,22 @@ namespace HematoLab.Formularios
         {
             InitializeComponent();
             miGestor = new GestorConteo();
+            miGestorDGV = new GestorDGV();
         }
 
         private void FormListadoConteos_Load(object sender, EventArgs e)
         {
-            efectosDataGridView();
+            miGestorDGV.efectosDataGridView(this.dataGridView1);
         }
 
-        public void efectosDataGridView()
-        {
-            dataGridView1.DefaultCellStyle.SelectionBackColor = Color.DarkTurquoise;
-            dataGridView1.DefaultCellStyle.SelectionForeColor = Color.WhiteSmoke;
-            dataGridView1.BackgroundColor = Color.White;
-            dataGridView1.EnableHeadersVisualStyles = false;
-            dataGridView1.ColumnHeadersBorderStyle = DataGridViewHeaderBorderStyle.None;
-            dataGridView1.ColumnHeadersDefaultCellStyle.BackColor = Color.FromArgb(20, 25, 72);
-            dataGridView1.ColumnHeadersDefaultCellStyle.ForeColor = Color.White;
-        }
+     
 
         private void btnMostrar_Click(object sender, EventArgs e)
         {
             try
             {
                 string consulta = "Select * from vista_lista_conteos v where v.Fecha like '%" + fecha + "%' and v.Dni like '%" + dni + "%'";
-                miGestor.cargarDataGrid(dataGridView1, consulta);
+                miGestorDGV.cargarDataGrid(dataGridView1, consulta);
 
                 if (dataGridView1.Rows.Count == 0)
                 {
