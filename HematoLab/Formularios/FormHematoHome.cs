@@ -9,7 +9,8 @@ namespace HematoLab.Formularios
     {
 
 
-        GestorHemato miGestorHemato;    
+        GestorHemato miGestorHemato;
+        GestorDGV miGestorDGV;
         private string paciente;
         private string dni;
         private string edad;
@@ -22,6 +23,7 @@ namespace HematoLab.Formularios
         {
             InitializeComponent();
             miGestorHemato = new GestorHemato();
+            miGestorDGV = new GestorDGV();
             paciente = "";
             dni = "";
             edad = "";
@@ -33,7 +35,7 @@ namespace HematoLab.Formularios
         private void FormHematoHome_Load(object sender, EventArgs e)
         {
             fechaActual();
-            miGestorHemato.efectosDGV(dataGridView1);
+            miGestorDGV.efectosDGV(dataGridView1);
             cargarDGV();
             ocultarcelda();
         }
@@ -118,14 +120,14 @@ namespace HematoLab.Formularios
 
         void cargarDGV()
         {
-            miGestorHemato.cargarDataGrid(dataGridView1, txtFechaActual.Text, "vista");
+            miGestorDGV.cargarDataGrid2(dataGridView1, txtFechaActual.Text, "vista");
             ocultarcelda();
         }
 
 
         private void btnCargar_Click(object sender, EventArgs e)
         {
-            miGestorHemato.cargarDataGrid(dataGridView1, txtFechaActual.Text, "vista");
+            miGestorDGV.cargarDataGrid2(dataGridView1, txtFechaActual.Text, "vista");
         }
 
         private void dataGridView1_ColumnHeaderMouseClick(object sender, DataGridViewCellMouseEventArgs e)
@@ -191,7 +193,7 @@ namespace HematoLab.Formularios
         {
             try
             {
-                miGestorHemato.cargarDataGrid(dataGridView1,dateTimePicker1.Value.ToShortDateString(), "vista");
+                miGestorDGV.cargarDataGrid2(dataGridView1,dateTimePicker1.Value.ToShortDateString(), "vista");
                 if(dataGridView1.Rows.Count==0)
                 {
                     MetroFramework.MetroMessageBox.Show(this,"No se encontraron estudios sin realizar.");
