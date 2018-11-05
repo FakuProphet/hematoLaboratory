@@ -21,7 +21,7 @@ namespace HematoLab.Formularios
 
         private void FormListadoConteos_Load(object sender, EventArgs e)
         {
-            miGestorDGV.efectosDataGridView(this.dataGridView1);
+            miGestorDGV.efectosDGV(this.dataGridView1);
         }
 
      

@@ -13,6 +13,7 @@ namespace HematoLab.Formularios
 
         GestorTurnos miGestor;
         GestorPacientes miGestorPacientes;
+        GestorDGV miGestorDGV;
         Paciente[] vPacientes;
         Extractorio[] vTurnosDelDia;
         private Timer tiempo;
@@ -25,6 +26,7 @@ namespace HematoLab.Formularios
 
             InitializeComponent();
             miGestor = new GestorTurnos();
+            miGestorDGV = new GestorDGV();
             miGestorPacientes = new GestorPacientes();
             vPacientes = miGestorPacientes.GetPacientes();
             vTurnosDelDia = miGestor.GetTurnosExtractorioDelDia();
@@ -39,7 +41,7 @@ namespace HematoLab.Formularios
 
         private void FormAdmTurno_Load(object sender, EventArgs e)
         {
-            efectosDataGridView();
+            miGestorDGV.efectosDGV(this.dataGridView1);
             fechaActual();
             cargarCombo(cboHora,"Horas");
             miGestorPacientes.CargarListadoPacientes(lstPacientes);
@@ -108,18 +110,7 @@ namespace HematoLab.Formularios
             combo.SelectedIndex = 0;
         }
 
-        public void efectosDataGridView()
-        {
-            //   dataGridViewReporte.BorderStyle = MetroFramework.Forms.MetroFormBorderStyle.None;
-            dataGridView1.DefaultCellStyle.SelectionBackColor = Color.DarkTurquoise;
-            dataGridView1.DefaultCellStyle.SelectionForeColor = Color.WhiteSmoke;
-            dataGridView1.BackgroundColor = Color.White;
-            dataGridView1.EnableHeadersVisualStyles = false;
-            dataGridView1.ColumnHeadersBorderStyle = DataGridViewHeaderBorderStyle.None;
-            dataGridView1.ColumnHeadersDefaultCellStyle.BackColor = Color.FromArgb(20, 25, 72);
-            dataGridView1.ColumnHeadersDefaultCellStyle.ForeColor = Color.White;
-           
-        }
+       
 
         private void btnEliminarTurno_Click(object sender, EventArgs e)
         {
@@ -141,7 +132,7 @@ namespace HematoLab.Formularios
                         miGestor.EliminarTurno("Extracciones",Convert.ToInt32(valorCelda));
                         valorCelda = "";
                         string parametro = txtFecha.Text.Trim();
-                        miGestor.cargarDataGrid(dataGridView1, "select * from vista1 v where v.[Turnos de la fecha] like '%" + parametro + "%'");
+                        miGestorDGV.cargarDataGrid(dataGridView1, "select * from vista1 v where v.[Turnos de la fecha] like '%" + parametro + "%'");
                         mostrarCantidadTurnosCancelados();
                     }
                     else
@@ -199,7 +190,7 @@ namespace HematoLab.Formularios
                     string tabla = "Extracciones";
                     miGestor.generarTurno(codigo, idHora, tabla, ext, cito, eritro, reti);
                     string parametro = txtFecha.Text.Trim();
-                    miGestor.cargarDataGrid(dataGridView1, "select * from vista1 v where v.[Turnos de la fecha] like '%" + parametro + "%' order by v.[Nombre del paciente]");
+                    miGestorDGV.cargarDataGrid(dataGridView1, "select * from vista1 v where v.[Turnos de la fecha] like '%" + parametro + "%' order by v.[Nombre del paciente]");
                     lblExisteTurno.Text = "";
                     btnGrabarTurno.Enabled = false;
                 }
@@ -236,7 +227,7 @@ namespace HematoLab.Formularios
             string consulta2 = "SELECT v.[Número de orden],v.[Nombre del paciente],v.[Turnos de la fecha],v.[Horario del turno]," +
                 "v.[Estado del turno]" +
                 " FROM turnos_vista v ORDER BY 1";
-            miGestor.cargarDataGrid(dataGridView1, consulta2);
+            miGestorDGV.cargarDataGrid(dataGridView1, consulta2);
         }
 
        
@@ -362,13 +353,13 @@ namespace HematoLab.Formularios
         private void btnCargarListado_Click(object sender, EventArgs e)
         {
             string parametro = txtFecha.Text.Trim();
-            miGestor.cargarDataGrid(dataGridView1, "select * from vista1 v where v.[Turnos de la fecha] like '%"+parametro+ "%' order by v.[Nombre del paciente]");
+            miGestorDGV.cargarDataGrid(dataGridView1, "select * from vista1 v where v.[Turnos de la fecha] like '%"+parametro+ "%' order by v.[Nombre del paciente]");
         }
 
         private void txtFiltrarTurnos_KeyUp(object sender, KeyEventArgs e)
         {
             string consulta= "select * from vista1 v where v.[Nro Documento paciente] like '%" + txtFiltrarTurnos.Text + "%' and v.[Turnos de la fecha] like '%" + txtFecha.Text + "%' order by v.[Nombre del paciente] ";
-            miGestor.cargarDataGrid(dataGridView1, consulta);
+            miGestorDGV.cargarDataGrid(dataGridView1, consulta);
         }
 
         private void txtFiltrarTurnos_KeyPress(object sender, KeyPressEventArgs e)

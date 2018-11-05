@@ -9,32 +9,33 @@ namespace HematoLab.Formularios
     {
 
         GestorInformeAdmTurnos miGestor;
-
+        GestorDGV miGestorDGV;
         public FormInformesGestionTurnos()
         {
             InitializeComponent();
             miGestor = new GestorInformeAdmTurnos();
+            miGestorDGV = new GestorDGV();
         }
 
         private void FormInfPacObraSocial_Load(object sender, EventArgs e)
         {
-            miGestor.efectosDGV(dataGridView1);
+            miGestorDGV.efectosDGV(dataGridView1);
             cargarCombos();
         }
 
         private void btnCargarLista_Click(object sender, EventArgs e)
         {
-            miGestor.cargarDataGrid(dataGridView1, "select * from vista_pac_obra_social", "vista");
+            miGestorDGV.cargarDataGrid2(dataGridView1, "select * from vista_pac_obra_social", "vista");
         }
 
         private void btnCargarListaPorGE_Click(object sender, EventArgs e)
         {
-            miGestor.cargarDataGrid(dataGridView1, "SELECT * FROM vista_pac_grupo_etario ORDER BY 2", "vista");
+            miGestorDGV.cargarDataGrid2(dataGridView1, "SELECT * FROM vista_pac_grupo_etario ORDER BY 2", "vista");
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            miGestor.cargarDataGrid(dataGridView1, "SELECT * FROM vista_pac_datos_de_contacto ORDER BY 1 ASC", "vista");
+            miGestorDGV.cargarDataGrid2(dataGridView1, "SELECT * FROM vista_pac_datos_de_contacto ORDER BY 1 ASC", "vista");
         }
 
         private void btnGenerarPDF_Click(object sender, EventArgs e)
@@ -104,13 +105,13 @@ namespace HematoLab.Formularios
         private void btnFiltroGrupoEtario_Click(object sender, EventArgs e)
         {
             string parametro = cboGrupoEtario.Text;
-            miGestor.cargarDataGrid(dataGridView1, "SELECT * FROM vista_pac_grupo_etario V WHERE V.[GRUPO ETARIO] LIKE '%"+parametro+"%'  ORDER BY 1","vista");
+            miGestorDGV.cargarDataGrid2(dataGridView1, "SELECT * FROM vista_pac_grupo_etario V WHERE V.[GRUPO ETARIO] LIKE '%"+parametro+"%'  ORDER BY 1","vista");
         }
 
         private void btnFiltroOS_Click(object sender, EventArgs e)
         {
             string parametro = cboObraSocial.Text;
-            miGestor.cargarDataGrid(dataGridView1, "select * from vista_pac_obra_social v where v.SIGLA like '%"+parametro+"%' ", "vista");
+            miGestorDGV.cargarDataGrid2(dataGridView1, "select * from vista_pac_obra_social v where v.SIGLA like '%"+parametro+"%' ", "vista");
         }
 
        

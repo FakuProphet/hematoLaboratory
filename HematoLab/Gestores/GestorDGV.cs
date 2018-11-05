@@ -43,8 +43,29 @@ namespace HematoLab.Gestores
             //---------------------------------------------------------------------
         }
 
+        public void cargarDataGrid2(DataGridView miDataGrid, string consulta, string tablaConsulta)
+        {
 
-       
+            DataSet miDataSet = new DataSet();
+            SqlDataAdapter da = new SqlDataAdapter(consulta, Conexion.ObtenerConexion());
+            da.Fill(miDataSet, tablaConsulta);
+            Conexion.CerrarConexion();
+            miDataGrid.RowHeadersVisible = false;
+            miDataGrid.AllowUserToAddRows = false;
+            miDataGrid.AllowUserToDeleteRows = false;
+            miDataGrid.AllowUserToOrderColumns = false;
+            miDataGrid.AllowUserToResizeColumns = true;
+            miDataGrid.AllowUserToResizeRows = false;
+            miDataGrid.AutoResizeColumns();
+            //estas dos lineas siguientes indican q las celdas se ajusten al contenido
+            //-----------------------------------------------------------------------
+            miDataGrid.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.AllCells;
+            miDataGrid.BorderStyle = BorderStyle.None;
+            //---------------------------------------------------------------------
+            miDataGrid.DataSource = miDataSet.Tables[tablaConsulta].DefaultView;
+        }
+
+
         public void cargarDataGridMetodo2(DataGridView miDataGrid, string consulta)
         {
 

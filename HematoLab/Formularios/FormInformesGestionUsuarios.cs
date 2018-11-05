@@ -9,12 +9,13 @@ namespace HematoLab.Formularios
     {
 
         GestorInformeAdmUsuarios gestor;
-
+        GestorDGV miGestorDGV;
 
         public FormInformesGestionUsuarios()
         {
             InitializeComponent();
             gestor = new GestorInformeAdmUsuarios();
+            miGestorDGV = new GestorDGV();
         }
 
         private void FormInformesGestionUsuarios_Load(object sender, EventArgs e)
@@ -26,7 +27,7 @@ namespace HematoLab.Formularios
         {
             cargarCombo(cboTurnos, "TurnoLaboral");
             cargarCombo(cboTurnoExt,"TurnoLaboral");
-            gestor.efectosDGV(dataGridView1);
+            miGestorDGV.efectosDGV(dataGridView1);
             cboSeleccion.SelectedIndex = 0;
             cboEspecialidad.SelectedIndex = 0;
         }
@@ -121,23 +122,23 @@ namespace HematoLab.Formularios
         private void btnFiltroEspHem_Click(object sender, EventArgs e)
         {
             string parametro = cboEspecialidad.Text;
-            gestor.cargarDataGrid(dataGridView1, "SELECT * FROM vista_prof_por_turno v WHERE v.Especialidad LIKE '%" + parametro + "%'  ORDER BY 1", "vista");
+            miGestorDGV.cargarDataGrid2(dataGridView1, "SELECT * FROM vista_prof_por_turno v WHERE v.Especialidad LIKE '%" + parametro + "%'  ORDER BY 1", "vista");
         }
 
         private void btnFiltroPPT_Click_1(object sender, EventArgs e)
         {
             string parametro = cboTurnos.Text;
-            gestor.cargarDataGrid(dataGridView1, "SELECT * FROM vista_prof_por_turno v WHERE v.[Turno de Trabajo] LIKE '%" + parametro + "%'  ORDER BY 1", "vista");
+            miGestorDGV.cargarDataGrid2(dataGridView1, "SELECT * FROM vista_prof_por_turno v WHERE v.[Turno de Trabajo] LIKE '%" + parametro + "%'  ORDER BY 1", "vista");
         }
 
         private void btnCargarListaPPT_Click_1(object sender, EventArgs e)
         {
-            gestor.cargarDataGrid(dataGridView1, "SELECT * FROM vista_prof_por_turno  ORDER BY 1", "vista");
+            miGestorDGV.cargarDataGrid2(dataGridView1, "SELECT * FROM vista_prof_por_turno  ORDER BY 1", "vista");
         }
 
         private void btnListadoPNM_Click(object sender, EventArgs e)
         {
-            gestor.cargarDataGrid(dataGridView1, "SELECT * FROM vista_personal_no_medico  ORDER BY 1", "vista");
+            miGestorDGV.cargarDataGrid2(dataGridView1, "SELECT * FROM vista_personal_no_medico  ORDER BY 1", "vista");
         }
 
         private void btnGenerarPDFPNM_Click(object sender, EventArgs e)
@@ -173,12 +174,12 @@ namespace HematoLab.Formularios
         private void btnFiltroPExt_Click(object sender, EventArgs e)
         {
             string parametro = cboTurnoExt.Text;
-            gestor.cargarDataGrid(dataGridView1, "SELECT * FROM vista_personal_extractorio v where v.[Turno Laboral] like '%"+parametro+"%' ORDER BY 1", "vista");
+            miGestorDGV.cargarDataGrid2(dataGridView1, "SELECT * FROM vista_personal_extractorio v where v.[Turno Laboral] like '%"+parametro+"%' ORDER BY 1", "vista");
         }
 
         private void btnListadoPExt_Click(object sender, EventArgs e)
         {
-            gestor.cargarDataGrid(dataGridView1, "SELECT * FROM vista_personal_extractorio ORDER BY 1", "vista");
+            miGestorDGV.cargarDataGrid2(dataGridView1, "SELECT * FROM vista_personal_extractorio ORDER BY 1", "vista");
         }
 
         private void btnGenerarPDFPExt_Click(object sender, EventArgs e)
@@ -220,7 +221,7 @@ namespace HematoLab.Formularios
         private void btnFiltroEspHem_Click_1(object sender, EventArgs e)
         {
            string parametro = cboEspecialidad.Text;
-            gestor.cargarDataGrid(dataGridView1, "SELECT * FROM vista_prof_por_turno v WHERE v.Especialidad LIKE '%" + parametro + "%'  ORDER BY 1", "vista");
+            miGestorDGV.cargarDataGrid2(dataGridView1, "SELECT * FROM vista_prof_por_turno v WHERE v.Especialidad LIKE '%" + parametro + "%'  ORDER BY 1", "vista");
         
             
         }
