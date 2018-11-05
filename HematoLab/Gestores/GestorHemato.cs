@@ -147,40 +147,7 @@ namespace HematoLab.Gestores
         }
 
 
-        public void efectosDGV(DataGridView miDGV)
-        {
-            miDGV.DefaultCellStyle.SelectionBackColor = Color.DarkTurquoise;
-            miDGV.DefaultCellStyle.SelectionForeColor = Color.WhiteSmoke;
-            miDGV.BackgroundColor = Color.White;
-            miDGV.EnableHeadersVisualStyles = false;
-            miDGV.ColumnHeadersBorderStyle = DataGridViewHeaderBorderStyle.None;
-            miDGV.ColumnHeadersDefaultCellStyle.BackColor = Color.FromArgb(20, 25, 72);
-            miDGV.ColumnHeadersDefaultCellStyle.ForeColor = Color.White;
-        }
-
-
-
-        public void cargarDataGrid(DataGridView miDataGrid, string fecha, string tablaConsulta)
-        {
-
-            DataSet miDataSet = new DataSet();
-            SqlDataAdapter da = new SqlDataAdapter("select * from vista_analisis_realizados v where v.[Turnos de la fecha] like '%"+fecha+ "%' and v.[Toma de muestra] like 'Realizado' and v.visibleLab=0 order by 2", Conexion.ObtenerConexion());
-            da.Fill(miDataSet, tablaConsulta);
-            Conexion.CerrarConexion();
-            miDataGrid.RowHeadersVisible = false;
-            miDataGrid.AllowUserToAddRows = false;
-            miDataGrid.AllowUserToDeleteRows = false;
-            miDataGrid.AllowUserToOrderColumns = false;
-            miDataGrid.AllowUserToResizeColumns = true;
-            miDataGrid.AllowUserToResizeRows = false;
-            miDataGrid.AutoResizeColumns();
-            //estas dos lineas siguientes indican q las celdas se ajusten al contenido
-            //-----------------------------------------------------------------------
-            miDataGrid.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.AllCells;
-            miDataGrid.BorderStyle = BorderStyle.None;
-            //---------------------------------------------------------------------
-            miDataGrid.DataSource = miDataSet.Tables[tablaConsulta].DefaultView;
-        }
+       
 
         public void ConcluirEstudio(int estado , int numeroOrden)
         {

@@ -1,6 +1,5 @@
-﻿
-
-using HematoLab.Clases;
+﻿using HematoLab.Clases;
+using System;
 using System.Data;
 using System.Data.SqlClient;
 using System.Drawing;
@@ -45,15 +44,34 @@ namespace HematoLab.Gestores
         }
 
 
-        public void efectosDataGridView(DataGridView miDataGridView)
+       
+        public void cargarDataGridMetodo2(DataGridView miDataGrid, string consulta)
         {
-            miDataGridView.DefaultCellStyle.SelectionBackColor = Color.DarkTurquoise;
-            miDataGridView.DefaultCellStyle.SelectionForeColor = Color.WhiteSmoke;
-            miDataGridView.BackgroundColor = Color.White;
-            miDataGridView.EnableHeadersVisualStyles = false;
-            miDataGridView.ColumnHeadersBorderStyle = DataGridViewHeaderBorderStyle.None;
-            miDataGridView.ColumnHeadersDefaultCellStyle.BackColor = Color.FromArgb(20, 25, 72);
-            miDataGridView.ColumnHeadersDefaultCellStyle.ForeColor = Color.White;
+
+            try
+            {
+                SqlCommand cmd = new SqlCommand();
+                // setear parametros del command
+                cmd.CommandType = CommandType.Text;
+                // abrimos la conexion
+                // instanciamos el adaptador de datos
+                SqlDataAdapter da = new SqlDataAdapter(consulta, Conexion.ObtenerConexion());
+                // creamos un dataset que será rellenado a partir del anterior dataAdapter
+                DataSet ds = new DataSet();
+                // rellenamos
+                da.Fill(ds);
+                // asignamos a la grilla como datasource, la tabla de indice 0 del datasource creado
+                miDataGrid.DataSource = ds.Tables[0];
+            } // fin try
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            } // fin catch
+            finally
+            {
+                Conexion.CerrarConexion();
+            } // fin finally
+
         }
     }
 }
